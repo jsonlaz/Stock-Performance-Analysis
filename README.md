@@ -4,7 +4,7 @@ This project uses Python and Tableau to analyze and visualize tech stocks (AAPL,
 
 ## Data
 
-The `data/` directory contains the following CSV files:
+The `export/` directory contains the following CSV files:
 
 * `stock_data.csv`: Raw stock data from Yahoo Finance.
 * `daily_returns.csv`: Daily percentage changes in stock prices.
