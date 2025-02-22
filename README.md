@@ -17,19 +17,19 @@ The `src/` directory contains the Python Jupyter notebook `Tech Stock Analysis.i
 
 ## Visualizations
 
-The Tableau visualizations are available on Tableau Public:
+The visualizations are available on Tableau Public:
 
 **Dashboard 1:** [Visualizations Using Tableau](https://public.tableau.com/app/profile/john.lazarus/viz/StockMarketTrends_17402629786650/Dashboard1)
 
-    * Stock Prices Over Time (Line Chart)
-    * Cumulative Return by Year (Bar Chart)
-    * Annual Volatility (Bar Chart)
+* Stock Prices Over Time (Line Chart)
+* Cumulative Return by Year (Bar Chart)
+* Annual Volatility (Bar Chart)
 
 **Dashboard 2:** [Visualizations Using Tableau](https://public.tableau.com/app/profile/john.lazarus/viz/StockMarketTrends_17402629786650/Dashboard2)
 
-    * Cumulative Returns Over Time (Line Chart)
-    * Cumulative Return Table
-    * Average Annual Returns (Bar Chart)
+* Cumulative Returns Over Time (Line Chart)
+* Cumulative Return Table
+* Average Annual Returns (Bar Chart)
 
 ## Contributing
 
