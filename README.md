@@ -1,4 +1,4 @@
-# Stock Performance Analysis
+# Tech Stock Performance Analysis
 
 This project uses Python and Tableau to analyze and visualize 7 tech stock data over 5 years (2020-2024).
 
